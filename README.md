@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I am Soledad Marini. I am an analyst and web developer.
-
+I am Sole. 
+- 💡 Creativity and Innovation.  
+- 🎡 Analyst and web developer.  
 - 💻 I ~like~ **love** coding
 - 🌱 I’m currently learning typescript.
 - 👯 I’m looking to collaborate on group projects.
@@ -9,7 +10,11 @@ I am Soledad Marini. I am an analyst and web developer.
  ## Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-57f779?style=for-the-badge&logo=whatsapp&logoColor=222222)](https://wa.me/54921805765)
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msmarinip@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soledad-marini/)
+
 
 <br /> 
 
@@ -19,7 +24,7 @@ I am Soledad Marini. I am an analyst and web developer.
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmarinip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
@@ -41,7 +46,6 @@ I am Soledad Marini. I am an analyst and web developer.
 
 ⭐️ From [msmarinip](https://github.com/msmarinip/)
 
-[linkedin]: https://www.linkedin.com/in/soledad-marini/
 
 
 
