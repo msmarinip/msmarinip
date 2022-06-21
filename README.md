@@ -10,10 +10,7 @@ I am Sole.
  ## Connect with me:
 
 
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-57f779?style=for-the-badge&logo=whatsapp&logoColor=222222)](https://wa.me/54921805765)
-
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msmarinip@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soledad-marini/)
+[![Whatsapp](https://img.shields.io/badge/-Whatsapp-57f779?style=for-the-badge&logo=whatsapp&logoColor=222222)](https://wa.me/54921805765)[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msmarinip@gmail.com)  [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soledad-marini/)
 
 
 <br /> 
@@ -24,15 +21,17 @@ I am Sole.
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msmarinip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ## Tools:
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) 
 ![Sequelize](https://img.shields.io/badge/-Sequelize-222222?style=flat&logo=sequelize&logoColor=#09b8e2)
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
 ![REACT](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=00c8ff)
 ![Redux](https://img.shields.io/badge/-Redux-222222?style=flat&logo=redux&logoColor=7248b6)
 ![Express.js](https://img.shields.io/badge/-Express.js-222222?style=flat)
